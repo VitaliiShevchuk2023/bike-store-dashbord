@@ -1,1 +1,6 @@
 streamlit
+pandas
+pymssql
+numpy
+seaborn
+plotly
